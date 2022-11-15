@@ -1,7 +1,5 @@
 # Compiler-Lab-Programs
 
-COMPILER DESIGN PROGRAMS LIST
-
 #### 1. WAP to implement Lexical Analyzer
 #### 2. WAP using Lex for identifying vowels and Consonants.
 #### 3. WAP using Lex for counting chars, words and number of lines.
